@@ -1,0 +1,6 @@
+{
+  "name": "NBA",
+  "positions": ["C", "F", "G", "ball"],
+  "with_ball": true,
+  "spatial_dimension": 2,
+}
